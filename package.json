@@ -1,0 +1,13 @@
+{
+  "name": "google-analytics",
+  "version": "0.0.0",
+  "main": "analytics.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github/google-analytics.git"
+  },
+  "homepage": "https://developers.google.com/analytics/devguides/collection/analyticsjs",
+  "devDependencies": {
+    "js-beautify": "1.6.2"
+  }
+}
