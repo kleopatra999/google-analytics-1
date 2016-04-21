@@ -2,7 +2,7 @@
   "name": "google-analytics",
   "version": "1.0.0",
   "main": "analytics.min.js",
-  "license" : "SEE LICENSE IN LICENSE"
+  "license" : "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/github/google-analytics.git"
